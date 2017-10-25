@@ -1,0 +1,13 @@
+{
+  "name": "smplweb",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Balint Csak <hello@csakbalint.me>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.140.0",
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1"
+  }
+}
